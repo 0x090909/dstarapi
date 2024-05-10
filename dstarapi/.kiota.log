@@ -1,2 +1,0 @@
-Error: KiotaBuilder OpenAPI error: #/paths//comments/{post_id}/{uid} - The path signature '/comments/{}/{}' MUST be unique.
-Error: KiotaBuilder OpenAPI error: #/paths//posts/{uid} - The path signature '/posts/{}' MUST be unique.
